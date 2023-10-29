@@ -1,5 +1,5 @@
 <h1 align="center">Devster</h1>
-<h3 align="center"> A Python Dictionary Application <br> It's a programmer's dictionary app that lets you learn the Python programming language conveniently.</h3>
+<h3 align="center"> A Python Dictionary <br> It's a programmer's dictionary app that lets you learn the Python programming language conveniently.</h3>
 
 
 <h3 align="left">Used Languages and Tools:</h3>
