@@ -17,5 +17,5 @@
 
 📌 **Database**: We've utilized Firebase as our database for efficient data storage and retrieval.
 
-📌 **Programming Language**: We use the Python programming language as our default dictionary content because we don't have much time to learn other languages, and Python is simple to use.
+📌 **Programming Language**: We use the Python programming language as our default dictionary content because we don't have much time to learn other languages, and Python is simple to use. Additionally, it is still in the development phase.
 <p align="center">The source code and preview are still under evaluation.</p>
