@@ -25,3 +25,9 @@
 ---
 
 <p> credits to: <br> https://www.youtube.com/watch?v=x7X9w_GIm1s <br> https://www.youtube.com/watch?v=fabelAs_m08 <br> https://www.youtube.com/watch?v=avO8alp-JG8 </p>
+
+---
+
+<h5> 
+We used this as our app proposal in our thesis in senior high school. I was the full-stack developer and lead developer of the application.
+</h5>
