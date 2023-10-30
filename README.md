@@ -13,7 +13,7 @@
 
 📌 **Mobile Responsiveness**: Our app is designed to be mobile-responsive, ensuring a seamless experience for both tablet and mobile device users, although it is still in the development phase.
 
-📌 **Authentication & Authorization**: We use Firebase for secure password and email (Free Database) for authentication and authorization.
+📌 **Authentication & Authorization**: We use **Firebase** for secure password and email (Free Database) for authentication and authorization.
 
 📌 **Database**: We've utilized Firebase as our database for efficient data storage and retrieval.
 
