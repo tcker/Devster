@@ -19,3 +19,9 @@
 
 📌 **Programming Language**: We use the Python programming language as our default dictionary content because we don't have much time to learn other languages, and Python is simple to use. Additionally, it is still in the development phase.
 <p align="center">The source code and preview are still under evaluation.</p>
+
+<h4> Used Videos </h4>
+
+---
+
+<p> credits to: <br> https://www.youtube.com/watch?v=rrB13utjYV4 <br> https://www.youtube.com/watch?v=fabelAs_m08 </p>
