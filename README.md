@@ -1,4 +1,10 @@
 <h1 align="center">Devster</h1>
+
+<h5> 
+We used this as our app proposal in our thesis in senior high school. I was the full-stack developer and lead developer of the application.
+</h5>
+
+
 <h2>Overview</h2>
 <p> A Python Dictionary <br> It's a programmer's dictionary app that lets you learn the Python programming language conveniently.</p>
 
@@ -28,6 +34,3 @@
 
 ---
 
-<h5> 
-We used this as our app proposal in our thesis in senior high school. I was the full-stack developer and lead developer of the application.
-</h5>
