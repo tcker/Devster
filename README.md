@@ -1,7 +1,7 @@
 <h1 align="center">Devster</h1>
 
 <h5> 
-We used this as our app proposal in our thesis in senior high school. I was the full-stack developer and lead developer of the application.
+We use this as our app proposal in our thesis in senior high school. I was the full-stack developer and lead developer of the application.
 </h5>
 
 
