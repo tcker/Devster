@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/tcker/Python-Dictionary-App/raw/main/Assets/Logo.png" alt="Logo" width="200" height="200">
+</p>
+
+
 <h1 align="center">Devster</h1>
 
 <h5> 
