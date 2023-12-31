@@ -15,7 +15,7 @@ We use this as our app proposal in our thesis in senior high school. I was the f
 ## Features
 📌 **Account Creation**: The application has its own account login and sign-up feature.
 
-📌 **Games, Compiler, Dictionary**: We can't call the app a dictionary app if it doesn't have a dictionary.
+📌 **Games, Compiler, Dictionary, Notepad**: We can't call the app a dictionary app if it doesn't have a dictionary.
 
 📌 **Mobile Responsiveness**: Our app is designed to be mobile-responsive, ensuring a seamless experience for both tablet and mobile device users, although it is still in the development phase.
 
