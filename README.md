@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tcker/Python-Dictionary-App/raw/main/Assets/dev_logo.png" alt="Logo" width="155" height="155">
+  <img src="https://github.com/tcker/Python-Dictionary-App/raw/main/Assets/dev_logo.png" alt="Logo" width="120" height="120">
 </p>
 
 
