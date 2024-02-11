@@ -37,7 +37,7 @@ We use this as our app proposal in our thesis in senior high school. I was the f
     <img src="https://img.shields.io/badge/Download Previews-ec5a2d.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
   </a>
   <div>
-    <a href="https://github.com/tcker/Python-Dictionary-App/raw/main/App/" target="_blank">
+    <a href="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Ftpmy7zrphxa61.png" target="_blank">
     <img src="https://img.shields.io/badge/Devster APK-030c29.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
   </a>
   <div align="center">
