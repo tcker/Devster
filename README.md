@@ -30,9 +30,14 @@ We use this as our app proposal in our thesis in senior high school. I was the f
 
 📌 **🐍 Programming Language**: We use the **Python programming language** as our default dictionary content because we don't have much time to learn other languages, and Python is simple to use. Additionally, it is still in the development phase.>
 <div align="center">
-  <a href="https://github.com/tcker/Python-Dictionary-App/raw/main/Preview/Devster.mp4/Main_1 (1).mp4" target="_blank">
-    <img src="https://img.shields.io/badge/Download Preview-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
+<div align="center">
+  <a href="https://github.com/tcker/Python-Dictionary-App/raw/main/Preview/Devster.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/Download Previews-ffce6d.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
   </a>
+  <a href="https://github.com/tcker/Python-Dictionary-App/raw/main/Preview/Main_1 (1).mp4" target="_blank">
+    <img src="https://img.shields.io/badge/Download Previews-ec5a2d.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank" />
+  </a>
+</div>
 
   
 <h4> Used Videos </h4>
