@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Set the custom animation for the activity entry and exit transitions
+        // custom animation for the activity entry and exit transitions
         overridePendingTransition(R.anim.pop_in, R.anim.pop_out)
 
         // Initialize Firebase Auth
