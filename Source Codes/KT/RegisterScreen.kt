@@ -84,7 +84,7 @@ class RegisterScreen : AppCompatActivity() {
     override fun onBackPressed() {
         super.onBackPressed()
 
-        // Set the custom animation for the activity exit transition when the back button is pressed
+        // custom animation for the activity exit transition when the back button is pressed
         overridePendingTransition(R.anim.pop_in, R.anim.pop_out)
     }
 }
