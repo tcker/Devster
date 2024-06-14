@@ -26,7 +26,7 @@ We use this as our app proposal in our thesis in senior high school. I was the f
 
 📌 **🔑 Authentication & Authorization**: We use **Firebase** for secure password and email (Free Database) for authentication and authorization.
 
-📌 **💽 Database**: We've utilized **Firebase** as our database for efficient data storage and retrieval.
+📌 **💽 Database**: We've utilized **Firebase** as our database for efficient data storage and retrieval..
 
 📌 **🐍 Programming Language**: We use the **Python programming language** as our default dictionary content because we don't have much time to learn other languages, and Python is simple to use. Additionally, it is still in the development phase.
 <div align="center">
