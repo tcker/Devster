@@ -45,10 +45,11 @@ We use this as our app proposal in our thesis in senior high school. I was the f
 
 
   
-<h4> Used Videos </h4>
+
 
 ---
 
+<h4> Used Videos </h4>
 <p> credits to: <br> https://www.youtube.com/watch?v=x7X9w_GIm1s <br> https://www.youtube.com/watch?v=fabelAs_m08 <br> https://www.youtube.com/watch?v=avO8alp-JG8 </p>
 
 ---
